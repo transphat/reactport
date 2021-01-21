@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Google Book Search",
+    "image": "https://raw.githubusercontent.com/transphat/GoogleBooks/main/client/public/img/screen.png",
+    "repo": "https://github.com/transphat/GoogleBooks.git",
+    "deployed": "https://trans-googlebooks.herokuapp.com/"
+  },
+  {
+    "id": 1,
+    "name": "Literalyst",
+    "image": "https://raw.githubusercontent.com/https://github.com/nicschworer/Project_02/main/src/img/screen.png",
+    "repo": "https://github.com/Piotr72us/employee-connect",
+    "deployed": "https://literalyst.herokuapp.com/"
+  },
+  {
+    "id": 2,
+    "name": "Eat a Burger",
+    "image": "https://raw.githubusercontent.com/transphat/burgersolution/main/public/img/screen.png",
+    "repo": "https://github.com/transphat/burgersolution.git",
+    "deployed": "https://burgersolution.herokuapp.com/burgers"
+  },
+  {
+    "id": 3,
+    "name": "PlanIt",
+    "image": "https://raw.githubusercontent.com/angierys22/planit/main/public/assets/img/notetaker.png",
+    "repo": "https://github.com/angierys22/planit.git"
+  },
+  {
+    "id": 4,
+    "name": "Budget Tracker",
+    "image": "https://raw.githubusercontent.com/transphat/budgettracker/master/assets/images/Screenshot.png",
+    "repo": "https://github.com/transphat/budgettracker.git",
+    "deployed": "https://transbudgettrack.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "Employee Data",
+    "image": "https://raw.githubusercontent.com/transphat/HW10-The-Factory/master/assets/destinationDemo.gif",
+    "repo": "https://github.com/transphat/HW10-The-Factory.git"
+
+
+  },
+  {
+    "id": 6,
+    "name": "Fitness Tracker",
+    "image": "https://raw.githubusercontent.com/transphat/TrackMyWorkout/main/assets/shrewd.png",
+    "repo": "https://github.com/transphat/TrackMyWorkout.git"
+  }
+]
